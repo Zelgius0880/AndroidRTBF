@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">AndroidRTBF</string>
+    <string name="movie_list_title">Movie list</string>
+    <string name="movie_detail_title">Movie detail</string>
+    <string name="error_format">Error: %s</string>
+    <string name="try_again">Try again</string>
 </resources>
